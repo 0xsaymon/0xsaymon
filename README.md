@@ -30,7 +30,7 @@ Feature-Sliced Design, monorepo patterns
 OpenCode, Claude Code, Codex, ComfyUI
 
 **Backend**  
-Next.js, PostgreSQL, Golang, WebSocket
+Node.js, PostgreSQL, WebSocket, Golang
 
 **Infra**  
 Docker, Ubuntu Server, Git
