@@ -40,7 +40,6 @@ Docker, Ubuntu Server, Git
 - 🔭 Shipping features at **[Zeely.ai](https://zeely.ai)**
 - 🧪 Integrating AI agents into frontend workflows
 - 🎨 Building ComfyUI pipelines for photorealistic content
-- 🏋️ Working toward handstand push-ups
 
 ## Connect
 
