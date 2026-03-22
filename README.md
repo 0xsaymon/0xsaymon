@@ -9,6 +9,7 @@ Currently building at **[Zeely.ai](https://zeely.ai)** - an AI-powered ad automa
 🏗️  Feature-Sliced Design - architecture that scales
 🤖  OpenCode · Claude Code · Codex - AI-augmented dev workflow
 🎨  ComfyUI · NanoBanana · FLUX · Z-Image · WAN - generative AI exploration
+🎧  [Coding playlist](https://open.spotify.com/playlist/3ytlej7lmQmLvuwcJYSuyb?si=4b25da7c32054e3d)
 🌊  Based in Lisbon, Portugal
 ```
 
