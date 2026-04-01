@@ -24,13 +24,17 @@ Over the past year, I've gone deep into AI-augmented development: coding agents 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xsaymon&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xsaymon&theme=tokyonight" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsaymon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xsaymon&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xsaymon&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=0xsaymon&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=c9d1d9&date_format=j%2Fn%2Fy" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xsaymon&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
